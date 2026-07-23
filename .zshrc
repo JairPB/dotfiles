@@ -79,3 +79,4 @@ alias la='eza -lha --icons'
 alias tree='eza --tree --icons'
 
 export PATH=$PATH:/home/jair/.spicetify
+export LS_COLORS="$(vivid generate catppuccin-mocha)"
