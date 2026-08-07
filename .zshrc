@@ -73,9 +73,6 @@ zle -N down-line-or-beginning-search
 bindkey '^[[A' up-line-or-beginning-search
 bindkey '^[[B' down-line-or-beginning-search
 
-# Zed alias
-alias zed="zeditor"
-
 # Eza finder (alternative to ls)
 alias ls='eza -lh --icons'
 alias la='eza -lha --icons'
