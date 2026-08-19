@@ -12,6 +12,7 @@ Personal configs for **Omarchy** (Arch Linux + Hyprland), plus Zsh, Neovim (Lazy
 
 | Path | Purpose |
 |---|---|
+| `.config/omarchy/` | Omarchy Quattro customs (shell options, plugins and themes) |
 | `.config/hypr/` | Hyprland overrides (bindings, monitors, input, lock screen, GUI apps) |
 | `.config/ghostty/` | Ghostty terminal config (font, keybinds, theme hook) |
 | `.config/nvim/` | Neovim config, built on [LazyVim](https://lazyvim.github.io) |
